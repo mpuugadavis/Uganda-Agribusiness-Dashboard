@@ -1,0 +1,15 @@
+Primary:       #3D7B36
+Dark Green:    #022817
+Secondary:     #225621
+Light Green:   #94B38E
+Pale Green:    #BDCCA6
+
+Orange:        #E46C1B
+Gold:          #F0B521
+Brown:         #933A18
+
+Blue:          #255D8E
+Purple:        #7B5292
+
+Background:    #FBF9F3
+Card/Border:   #EDEEE6
